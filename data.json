@@ -7691,12 +7691,7 @@
                 "Well-Worn": 85,
                 "Field-Tested": 123,
                 "Minimal Wear": 189,
-                "P250 | Contamination (Battle-Scarred": 246,
-                "Factory New": 349,
-                "P250 | Contamination (Field-Tested": 372,
-                "P250 | Contamination (Well-Worn": 452,
-                "P250 | Contamination (Minimal Wear": 586,
-                "P250 | Contamination (Factory New": 784
+                "Factory New": 349
             }
         ],
         [
@@ -9548,16 +9543,11 @@
                 }
             ],
             {
-                "M249 | Jungle DDPAT (Battle-Scarred": 317,
-                "M249 | Jungle DDPAT (Well-Worn": 419,
-                "M249 | Jungle DDPAT (Field-Tested": 477,
                 "Battle-Scarred": 610,
                 "Minimal Wear": 645,
                 "Field-Tested": 646,
                 "Well-Worn": 656,
-                "Factory New": 1949,
-                "M249 | Jungle DDPAT (Minimal Wear": 1975,
-                "M249 | Jungle DDPAT (Factory New": 2569
+                "Factory New": 1949
             }
         ],
         [
@@ -14597,9 +14587,7 @@
                 "Field-Tested": 36,
                 "Well-Worn": 36,
                 "Minimal Wear": 55,
-                "Factory New": 158,
-                "P2000 | Ocean Foam (Minimal Wear": 19121,
-                "P2000 | Ocean Foam (Factory New": 25300
+                "Factory New": 158
             }
         ],
         [
@@ -15205,12 +15193,7 @@
             {
                 "Field-Tested": 72,
                 "Minimal Wear": 98,
-                "Factory New": 164,
-                "P2000 | Imperial Dragon (Field-Tested": 383,
-                "P2000 | Imperial Dragon (Battle-Scarred": 404,
-                "P2000 | Imperial Dragon (Well-Worn": 408,
-                "P2000 | Imperial Dragon (Minimal Wear": 810,
-                "P2000 | Imperial Dragon (Factory New": 2802
+                "Factory New": 164
             }
         ],
         [
@@ -15861,12 +15844,7 @@
             ],
             {
                 "Factory New": 7604,
-                "Minimal Wear": 10508,
-                "CZ75-Auto | Emerald Quartz (Minimal Wear": 20930,
-                "CZ75-Auto | Emerald Quartz (Field-Tested": 23350,
-                "CZ75-Auto | Emerald Quartz (Battle-Scarred": 24519,
-                "CZ75-Auto | Emerald Quartz (Factory New": 49056,
-                "CZ75-Auto | Emerald Quartz (Well-Worn": 193165
+                "Minimal Wear": 10508
             }
         ],
         [
@@ -15953,11 +15931,6 @@
                 "Battle-Scarred": 2268,
                 "Field-Tested": 2300,
                 "Minimal Wear": 2659,
-                "Desert Eagle | Night Heist (Well-Worn": 5763,
-                "Desert Eagle | Night Heist (Battle-Scarred": 5764,
-                "Desert Eagle | Night Heist (Field-Tested": 5788,
-                "Desert Eagle | Night Heist (Minimal Wear": 6017,
-                "Desert Eagle | Night Heist (Factory New": 10915,
                 "Factory New": 19451
             }
         ],
@@ -18050,12 +18023,7 @@
                 "Well-Worn": 198,
                 "Field-Tested": 199,
                 "Minimal Wear": 330,
-                "P2000 | Grassland Leaves (Well-Worn": 925,
-                "P2000 | Grassland Leaves (Battle-Scarred": 1048,
-                "P2000 | Grassland Leaves (Field-Tested": 1073,
-                "Factory New": 2335,
-                "P2000 | Grassland Leaves (Minimal Wear": 2369,
-                "P2000 | Grassland Leaves (Factory New": 23000
+                "Factory New": 2335
             }
         ],
         [
@@ -18376,12 +18344,7 @@
                 }
             ],
             {
-                "P250 | Contaminant (Battle-Scarred": 74,
-                "P250 | Contaminant (Well-Worn": 85,
-                "P250 | Contaminant (Field-Tested": 131,
-                "P250 | Contaminant (Minimal Wear": 187,
                 "Battle-Scarred": 246,
-                "P250 | Contaminant (Factory New": 349,
                 "Field-Tested": 372,
                 "Well-Worn": 452,
                 "Minimal Wear": 586,
@@ -23034,7 +22997,6 @@
                 "Field-Tested": 368,
                 "Well-Worn": 394,
                 "Minimal Wear": 741,
-                "Sealed Graffiti | Recoil XM1014 (Jungle Green": 1141,
                 "Factory New": 10697
             }
         ]

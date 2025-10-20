@@ -79,9 +79,10 @@ if len(sys.argv) == 2 and sys.argv[1] == "update":
                 wearData = {}
 
                 for result in results:
-                    wearName = result['name'].replace(f"{skin[0]} | {skin[1]} (", "").replace(")", "")
-                    price = result['sell_price']
-                    wearData[wearName] = price
+                    if f"{skin[0]} | {skin[1]} (" in result['name']:
+                        wearName = result['name'].replace(f"{skin[0]} | {skin[1]} (", "").replace(")", "")
+                        price = result['sell_price']
+                        wearData[wearName] = price
 
                 colData.append([skin, wearData])
             skinData.append(colData)
