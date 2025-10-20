@@ -62,8 +62,7 @@ if len(sys.argv) == 2 and sys.argv[1] == "update":
         allCollections = json.load(file)
         counter = 0
         startTime = time.time()
-        #!!!! CHANGE BEFORE RUNNING!!!
-        for idx, col in enumerate(allCollections[:2]): # remove [:2]
+        for idx, col in enumerate(allCollections):
             colData = []
             for skin in col[1]:
                 counter += 1
@@ -88,8 +87,7 @@ if len(sys.argv) == 2 and sys.argv[1] == "update":
             skinData.append(colData)
             print(f"progress: {idx+1}/{len(allCollections)}")
 
-    #!!!! CHANGE BEFORE RUNNING!!!
-    with open("tmpdata.json", "w") as file: #remove tmp
+    with open("data.json", "w") as file:
         json.dump(skinData, file, indent=4)
 else:
     print("running normally")
