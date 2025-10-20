@@ -1,0 +1,43 @@
+https://steamcommunity.com/market/search/render/?query=&start=10&count=10&search_descriptions=0&sort_column=price&sort_dir=asc&appid=730&norender=1&category_730_Type%5B%5D=tag_CSGO_Type_SMG&category_730_Type%5B%5D=tag_CSGO_Type_Shotgun&category_730_Type%5B%5D=tag_CSGO_Type_Machinegun&category_730_Type%5B%5D=tag_CSGO_Type_Pistol&category_730_Type%5B%5D=tag_CSGO_Type_Rifle&category_730_Type%5B%5D=tag_CSGO_Type_SniperRifle&category_730_Exterior%5B%5D=tag_WearCategory0&category_730_Exterior%5B%5D=tag_WearCategory1&category_730_Exterior%5B%5D=tag_WearCategory2&category_730_Exterior%5B%5D=tag_WearCategory3&category_730_Exterior%5B%5D=tag_WearCategory4
+5m cooldown from rate limit
+https://steamcommunity.com/market/search/render/?query=&start=0&count=10&search_descriptions=0&sort_column=price&sort_dir=asc&appid=730&norender=1&category_730_Type%5B%5D=tag_CSGO_Type_SMG&category_730_Type%5B%5D=tag_CSGO_Type_Shotgun&category_730_Type%5B%5D=tag_CSGO_Type_Machinegun&category_730_Type%5B%5D=tag_CSGO_Type_Pistol&category_730_Type%5B%5D=tag_CSGO_Type_Rifle&category_730_Type%5B%5D=tag_CSGO_Type_SniperRifle&category_730_Exterior%5B%5D=tag_WearCategory0&category_730_Exterior%5B%5D=tag_WearCategory1&category_730_Exterior%5B%5D=tag_WearCategory2&category_730_Exterior%5B%5D=tag_WearCategory3&category_730_Exterior%5B%5D=tag_WearCategory4&category_730_Quality%5B%5D=tag_normal&category_730_Quality%5B%5D=tag_strange
+
+plan:
+1. make list of collections
+2. filter to only those w/ blues & purples
+3. get cheapest blue for all exteriors, stattrak and non stattrak
+4. get purples for each collection
+5. calculate every tradeup w/ each option?
+6. ???
+7. profit
+
+how many tradeups?
+assuming worst case: 88 valid collections
+1 blue per collection
+assume only using 1 wear per skin
+ignore stattrak
+fn, mw, ft, ww, bs = 5 options
+5*5=25 wear combos
+25*11=275 possible combos for 2 skins
+88*88=7744 collection combos
+275*7744=2129600 combinations of 2 skins
+
+
+for each combination need to find:
+outcome skins
+outcome floats of each skin
+price for each outcome float of each outcome skin
+chance for profit
+avg profit
+
+1357 skins
+
+ignore st for now
+5 wear ratings
+1357*5=6785 skin options
+
+
+for each skin:
+1. get steam community price for normal quality (all wears)
+2. get each wear price
+3. store

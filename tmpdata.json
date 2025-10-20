@@ -1,0 +1,618 @@
+[
+    [
+        [
+            [
+                "AK-47",
+                "The Oligarch",
+                "Covert",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Battle-Scarred": 8400,
+                "Well-Worn": 9800,
+                "Field-Tested": 12951,
+                "Minimal Wear": 29616,
+                "Factory New": 92811
+            }
+        ],
+        [
+            [
+                "M4A4",
+                "Full Throttle",
+                "Covert",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Battle-Scarred": 4321,
+                "Well-Worn": 5200,
+                "Field-Tested": 8137,
+                "Minimal Wear": 17261,
+                "Factory New": 65798
+            }
+        ],
+        [
+            [
+                "AWP",
+                "Ice Coaled",
+                "Classified",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Battle-Scarred": 1121,
+                "Well-Worn": 1139,
+                "Field-Tested": 1542,
+                "Minimal Wear": 3490,
+                "Factory New": 11000
+            }
+        ],
+        [
+            [
+                "Glock-18",
+                "Mirror Mosaic",
+                "Classified",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Battle-Scarred": 570,
+                "Well-Worn": 869,
+                "Field-Tested": 1169,
+                "Minimal Wear": 2419,
+                "Factory New": 7052
+            }
+        ],
+        [
+            [
+                "MP7",
+                "Smoking Kills",
+                "Classified",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Battle-Scarred": 630,
+                "Well-Worn": 823,
+                "Field-Tested": 1074,
+                "Minimal Wear": 2335,
+                "Factory New": 6662
+            }
+        ],
+        [
+            [
+                "Dual Berettas",
+                "Angel Eyes",
+                "Restricted",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Battle-Scarred": 78,
+                "Well-Worn": 84,
+                "Field-Tested": 116,
+                "Minimal Wear": 267,
+                "Factory New": 831
+            }
+        ],
+        [
+            [
+                "M4A1-S",
+                "Liquidation",
+                "Restricted",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Battle-Scarred": 262,
+                "Well-Worn": 472,
+                "Field-Tested": 701,
+                "Minimal Wear": 1360,
+                "Factory New": 4963
+            }
+        ],
+        [
+            [
+                "MAC-10",
+                "Cat Fight",
+                "Restricted",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Battle-Scarred": 75,
+                "Well-Worn": 85,
+                "Field-Tested": 117,
+                "Minimal Wear": 267,
+                "Factory New": 889
+            }
+        ],
+        [
+            [
+                "Nova",
+                "Ocular",
+                "Restricted",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Well-Worn": 86,
+                "Battle-Scarred": 92,
+                "Field-Tested": 117,
+                "Minimal Wear": 261,
+                "Factory New": 836
+            }
+        ],
+        [
+            [
+                "UMP-45",
+                "Continuum",
+                "Restricted",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Battle-Scarred": 83,
+                "Well-Worn": 88,
+                "Field-Tested": 109,
+                "Minimal Wear": 261,
+                "Factory New": 834
+            }
+        ],
+        [
+            [
+                "AUG",
+                "Trigger Discipline",
+                "Mil-Spec Grade",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Battle-Scarred": 12,
+                "Well-Worn": 15,
+                "Field-Tested": 19,
+                "Minimal Wear": 51,
+                "Factory New": 172
+            }
+        ],
+        [
+            [
+                "P2000",
+                "Red Wing",
+                "Mil-Spec Grade",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Battle-Scarred": 11,
+                "Well-Worn": 14,
+                "Field-Tested": 26,
+                "Minimal Wear": 50,
+                "Factory New": 169
+            }
+        ],
+        [
+            [
+                "MAG-7",
+                "MAGnitude",
+                "Mil-Spec Grade",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Battle-Scarred": 11,
+                "Well-Worn": 15,
+                "Field-Tested": 28,
+                "Minimal Wear": 50,
+                "Factory New": 170
+            }
+        ],
+        [
+            [
+                "MP5-SD",
+                "Focus",
+                "Mil-Spec Grade",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Battle-Scarred": 12,
+                "Well-Worn": 13,
+                "Field-Tested": 23,
+                "Minimal Wear": 50,
+                "Factory New": 170
+            }
+        ],
+        [
+            [
+                "MP9",
+                "Broken Record",
+                "Mil-Spec Grade",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Well-Worn": 14,
+                "Battle-Scarred": 15,
+                "Field-Tested": 19,
+                "Minimal Wear": 50,
+                "Factory New": 169
+            }
+        ],
+        [
+            [
+                "P250",
+                "Bullfrog",
+                "Mil-Spec Grade",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Battle-Scarred": 11,
+                "Field-Tested": 19,
+                "Well-Worn": 21,
+                "Minimal Wear": 48,
+                "Factory New": 169
+            }
+        ],
+        [
+            [
+                "SCAR-20",
+                "Caged",
+                "Mil-Spec Grade",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Battle-Scarred": 12,
+                "Well-Worn": 14,
+                "Field-Tested": 23,
+                "Minimal Wear": 50,
+                "Factory New": 169
+            }
+        ]
+    ],
+    [
+        [
+            [
+                "AWP",
+                "Printstream",
+                "Covert",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Battle-Scarred": 4085,
+                "Well-Worn": 4140,
+                "Field-Tested": 6653,
+                "Minimal Wear": 15798,
+                "Factory New": 53124
+            }
+        ],
+        [
+            [
+                "FAMAS",
+                "Bad Trip",
+                "Covert",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Battle-Scarred": 238,
+                "Well-Worn": 260,
+                "Field-Tested": 374,
+                "Minimal Wear": 818,
+                "Factory New": 4800
+            }
+        ],
+        [
+            [
+                "AK-47",
+                "Searing Rage",
+                "Classified",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Battle-Scarred": 340,
+                "Well-Worn": 393,
+                "Field-Tested": 421,
+                "Minimal Wear": 1043,
+                "Factory New": 5347
+            }
+        ],
+        [
+            [
+                "Glock-18",
+                "Shinobu",
+                "Classified",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Battle-Scarred": 350,
+                "Well-Worn": 397,
+                "Field-Tested": 478,
+                "Minimal Wear": 1145,
+                "Factory New": 4408
+            }
+        ],
+        [
+            [
+                "UMP-45",
+                "K.O. Factory",
+                "Classified",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Battle-Scarred": 271,
+                "Well-Worn": 323,
+                "Field-Tested": 431,
+                "Minimal Wear": 995,
+                "Factory New": 3110
+            }
+        ],
+        [
+            [
+                "Desert Eagle",
+                "Serpent Strike",
+                "Restricted",
+                {
+                    "min_float": 0,
+                    "max_float": 0.57
+                }
+            ],
+            {
+                "Field-Tested": 51,
+                "Battle-Scarred": 53,
+                "Well-Worn": 53,
+                "Minimal Wear": 153,
+                "Factory New": 485
+            }
+        ],
+        [
+            [
+                "Galil AR",
+                "Control",
+                "Restricted",
+                {
+                    "min_float": 0,
+                    "max_float": 0.798995
+                }
+            ],
+            {
+                "Battle-Scarred": 29,
+                "Well-Worn": 39,
+                "Field-Tested": 46,
+                "Minimal Wear": 141,
+                "Factory New": 513
+            }
+        ],
+        [
+            [
+                "Nova",
+                "Rising Sun",
+                "Restricted",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Battle-Scarred": 28,
+                "Well-Worn": 34,
+                "Field-Tested": 43,
+                "Minimal Wear": 133,
+                "Factory New": 570
+            }
+        ],
+        [
+            [
+                "P90",
+                "Wave Breaker",
+                "Restricted",
+                {
+                    "min_float": 0,
+                    "max_float": 0.950549
+                }
+            ],
+            {
+                "Battle-Scarred": 31,
+                "Well-Worn": 32,
+                "Field-Tested": 43,
+                "Minimal Wear": 134,
+                "Factory New": 590
+            }
+        ],
+        [
+            [
+                "Zeus x27",
+                "Tosai",
+                "Restricted",
+                {
+                    "min_float": 0,
+                    "max_float": 0.7
+                }
+            ],
+            {
+                "Field-Tested": 42,
+                "Battle-Scarred": 43,
+                "Well-Worn": 48,
+                "Minimal Wear": 135,
+                "Factory New": 400
+            }
+        ],
+        [
+            [
+                "P2000",
+                "Sure Grip",
+                "Mil-Spec Grade",
+                {
+                    "min_float": 0,
+                    "max_float": 0.9
+                }
+            ],
+            {
+                "Well-Worn": 6,
+                "Battle-Scarred": 6,
+                "Field-Tested": 9,
+                "Minimal Wear": 23,
+                "Factory New": 104
+            }
+        ],
+        [
+            [
+                "M4A4",
+                "Choppa",
+                "Mil-Spec Grade",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Battle-Scarred": 7,
+                "Well-Worn": 7,
+                "Field-Tested": 12,
+                "Minimal Wear": 30,
+                "Factory New": 289
+            }
+        ],
+        [
+            [
+                "MAG-7",
+                "Resupply",
+                "Mil-Spec Grade",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Battle-Scarred": 6,
+                "Well-Worn": 7,
+                "Field-Tested": 9,
+                "Minimal Wear": 23,
+                "Factory New": 106
+            }
+        ],
+        [
+            [
+                "MP9",
+                "Nexus",
+                "Mil-Spec Grade",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Battle-Scarred": 6,
+                "Well-Worn": 6,
+                "Field-Tested": 9,
+                "Minimal Wear": 24,
+                "Factory New": 105
+            }
+        ],
+        [
+            [
+                "SSG 08",
+                "Memorial",
+                "Mil-Spec Grade",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Well-Worn": 6,
+                "Battle-Scarred": 7,
+                "Field-Tested": 10,
+                "Minimal Wear": 23,
+                "Factory New": 131
+            }
+        ],
+        [
+            [
+                "USP-S",
+                "PC-GRN",
+                "Mil-Spec Grade",
+                {
+                    "min_float": 0,
+                    "max_float": 0.9
+                }
+            ],
+            {
+                "Battle-Scarred": 11,
+                "Well-Worn": 11,
+                "Field-Tested": 14,
+                "Minimal Wear": 38,
+                "Factory New": 197
+            }
+        ],
+        [
+            [
+                "XM1014",
+                "Mockingbird",
+                "Mil-Spec Grade",
+                {
+                    "min_float": 0,
+                    "max_float": 1
+                }
+            ],
+            {
+                "Well-Worn": 6,
+                "Battle-Scarred": 6,
+                "Field-Tested": 9,
+                "Minimal Wear": 23,
+                "Factory New": 106
+            }
+        ]
+    ]
+]
