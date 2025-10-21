@@ -4,7 +4,11 @@ def calculate():
     file = open("data.json", "r")
     data = json.load(file)
 
-    for collection in data:
+    allPurples = {}
+    allCheapest = {}
+
+    for colInfo in data:
+        collection = colInfo[1]
         blues = []
         purples = []
         cheapest = {"Battle-Scarred": [1000000, []], "Well-Worn": [1000000, []], "Field-Tested": [1000000, []], "Minimal Wear": [1000000, []], "Factory New": [1000000, []]}

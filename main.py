@@ -85,7 +85,7 @@ if len(sys.argv) == 2 and sys.argv[1] == "update":
                         wearData[wearName] = price
 
                 colData.append([skin, wearData])
-            skinData.append(colData)
+            skinData.append([col[0], colData])
             print(f"progress: {idx+1}/{len(allCollections)}")
 
     with open("data.json", "w") as file:
